@@ -6,8 +6,8 @@
 ### Hi I'm Nashuha Mahira 👋
 Person who is passionate about creating and testing programs using Java and Selenium, Appium, Rest Assured, Katalon, and JMeter (Performance Testing).
 
-### Stats:
-<details>
+### About me:
+
 - 🌱 I’m currently learning Katalon, CI/CD
 - 💬 Ask me about ...
 - 📫 How to reach me: nashuham14@gmail.com

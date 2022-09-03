@@ -1,19 +1,20 @@
-### Hi I'm Nashuha Mahira 👋
+
 
 <!--
 **nshmahira/nshmahira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
+### Hi I'm Nashuha Mahira 👋
 Person who is passionate about creating and testing programs using Java and Selenium, Appium, Rest Assured, Katalon, and JMeter (Performance Testing).
 
-Here are some ideas to get you started:
-
-
+### Stats:
+<details>
+ <summary><strong>What i am learning on these days</strong></summary>
 - 🌱 I’m currently learning Katalon, CI/CD
 - 💬 Ask me about ...
 - 📫 How to reach me: nashuham14@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: very easy to mingle with people
--->
+
 </details>
 <p align="left">
 <a href="https://github.com/nshmahira">

@@ -4,7 +4,7 @@
 **nshmahira/nshmahira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### Hi I'm Nashuha Mahira 👋
-Person who is passionate about creating and testing programs using Java and Selenium, Appium, Rest Assured, Katalon, and JMeter (Performance Testing).
+Person who is passionate about creating and testing programs using Java and Selenium, Appium, Rest Assured,and JMeter (Performance Testing).
 
 ### About me:
 

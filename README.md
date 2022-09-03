@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 </details>
 <p align="left">
-<a href="https://github.com/rizkyfebriann">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nshmahira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nshmahira&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/nshmahira">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nshmahira&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nshmahira&layout=compact&langs_count=8&theme=nightowl"/>
 </a>
 </p>
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![Cucumber](https://img.shields.io/badge/-cucumber-181717?style=for-the-badge&logo=cucumber)
 ![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
 ![Serenity BDD](https://img.shields.io/badge/-serenitybdd-181717?style=for-the-badge&logo=serenitybdd)
-[Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### Connect with me !

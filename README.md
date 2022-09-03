@@ -8,7 +8,6 @@ Person who is passionate about creating and testing programs using Java and Sele
 
 ### Stats:
 <details>
- <summary><strong>What i am learning on these days</strong></summary>
 - 🌱 I’m currently learning Katalon, CI/CD
 - 💬 Ask me about ...
 - 📫 How to reach me: nashuham14@gmail.com

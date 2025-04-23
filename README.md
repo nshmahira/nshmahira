@@ -10,7 +10,7 @@ Person who is passionate about creating and testing programs using Java and Sele
 
 - 🌱 I’m currently working on a project using Cypress for end-to-end testing and learning Katalon, CI/CD
 - 💬 Ask me about QA Engineer
-- 📫 How to reach me: nashuham14@gmail.com
+- 📫 How to reach me: nshmahira@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: very easy to mingle with people
 
